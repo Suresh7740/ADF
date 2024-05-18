@@ -1,0 +1,9 @@
+{
+	"name": "suresh-git",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ab235622-b015-4f23-b95c-e11d5885dbfc",
+		"tenantId": "ea403901-c706-4ea5-8a46-999f6b96d225"
+	}
+}
